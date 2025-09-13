@@ -1,2 +1,2 @@
 # Team-SaaSsy
-Sassiest team ever!
+Rəqəmsallaşdırılmış Alman Üsulu Ödəmə Platforması
